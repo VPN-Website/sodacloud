@@ -1,5 +1,5 @@
 # 苏打云机场地址丨折扣优惠丨实时更新
-Sodacloud 苏打云，是一款BGP中继线路机场，可以提供优质翻墙线路供大家选择，并且在中国国内拥有多条线路进行连接，方便广大用户进行选择。采用SS/SSR/V2Ray协议，节点分布香港，台湾，日本，新加坡，美国，全部1X倍率。每个地区单独一台入口服务器，保证翻墙节点线路的稳定性。所有套餐是永不过期的流量计费套餐，性价比超高适合轻度用户。
+**Sodacloud 苏打云**，是一款BGP中继线路机场，可以提供优质翻墙线路供大家选择，并且在中国国内拥有多条线路进行连接，方便广大用户进行选择。采用SS/SSR/V2Ray协议，节点分布香港，台湾，日本，新加坡，美国，全部1X倍率。每个地区单独一台入口服务器，保证翻墙节点线路的稳定性。所有套餐是永不过期的流量计费套餐，性价比超高适合轻度用户。
 
 ## 苏打云官网
 **苏打云官网最新地址**：[https://sodacloud.net](https://go.51tz.cc/sodacloud)
@@ -15,7 +15,7 @@ Sodacloud 苏打云，是一款BGP中继线路机场，可以提供优质翻墙�
 
 * 所有套餐均支持Netflix、Disney、HBO、TVB、Youtube等国外流媒体解锁；
 
-* 支持全平台Windows、Mac、Linux、Android、iOS等各种操作系统的SSR/V2Ray协议订阅；（Clash/Shadowrocket//Kitsunebi/QuantumultX等）
+* 支持全平台Windows、Mac、Linux、Android、iOS等各种操作系统的SSR/V2Ray协议订阅；（Clash/Shadowrocket/Kitsunebi/QuantumultX等）
 
 * 支付宝、微信直接支付，方便快捷；
 
