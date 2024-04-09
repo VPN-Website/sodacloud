@@ -7,7 +7,7 @@
 [![苏打云机场.jpg](https://s2.loli.net/2024/02/20/ywae2U3rYLPuOZR.jpg)](https://go.51tz.cc/sodacloud)
 
 ## 苏打云机场特点
-* 按流量计费，永不过期；
+* 按流量计费，套餐永不过期；
 
 * 全部节点线路采用BGP隧道中转优化，高速稳定；
 
